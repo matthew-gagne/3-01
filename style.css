@@ -1,8 +1,7 @@
 #id1 {
   color:teal;
-  font-family:helvetica;
+  font-family:helvetica,sans-serif;
 }
 .class1 {
   font-size:90%;
-  font-family:arial;
-}
+  font-family:"arial",sans-serif;
